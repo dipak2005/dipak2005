@@ -25,7 +25,7 @@
 - 📫 How to reach me: d74252835@gmail.com
 - 🌐 My PortFolio :  [PortFolio](https://dipak2005.github.io/)
 - ## 🤝 Let's Connect
-- [LinkedIn](https://linkedin.com/in/dipakthakur05)
+- [LinkedIn](https://linkedin.com/in/dipak-thakur05)
   
 #### 🛠⚙️ Tech Stack :
 #### Programming Languages :

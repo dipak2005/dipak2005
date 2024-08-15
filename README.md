@@ -15,7 +15,7 @@
 - A cross-platform app built with Flutter, featuring real-time Chating  and end to end encrypted privacy and also  intuitive UI. 
 ![IMG-20240812-WA0016 (1)](https://github.com/user-attachments/assets/02eeff47-c970-4721-9576-db05355ceacc)
 
-- [**DSA-BUS**](https://github.com/dipak-thakur/DSA-BUS)  
+- [**DSA-BUS**](https://github.com/dipak2005/DSA-BUS)  
   A collection of DSA challenges solved with detailed explanations and optimized code.
 
 - 🔭 we are currently working on Flutter Mobile Apps 

@@ -8,9 +8,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=ffffff&size=25&width=500&lines=AppDeveloper;WebAppDeveloper;UIUXDesigner)
 
 ## 🚀 Featured Projects
-- [**AiBuddy**](https://github.com/dipak2005/AI_BUDDY) : present (Working progress)
-- Ai-Buddy webapp built with Flutter , using realtime chating with Ai Buddy and solve all your doubts which is developed in your Mind.   
-![Frame 1](https://github.com/user-attachments/assets/b9939b2e-9404-4e28-aad5-7d488416df01) 
 - [**ChatBox**](https://github.com/dipak2005/chatbox)  
 - A cross-platform app built with Flutter, featuring real-time Chating  and end to end encrypted privacy and also  intuitive UI. 
 ![IMG-20240812-WA0016 (1)](https://github.com/user-attachments/assets/02eeff47-c970-4721-9576-db05355ceacc)

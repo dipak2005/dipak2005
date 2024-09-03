@@ -8,6 +8,11 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=ffffff&size=25&width=500&lines=AppDeveloper;WebAppDeveloper;UIUXDesigner)
 
 ## 🚀 Featured Projects
+
+- [**AiBuddy**](https://github.com/dipak2005/aibuddy)  
+- A cross-platform app built with Flutter, featuring calling post api for ai response  also  intuitive UI.
+- ![IMG-20240903-WA0004 (1)](https://github.com/user-attachments/assets/91be8d49-6ed3-4a83-8522-f7beae6cb3f5)
+
 - [**ChatBox**](https://github.com/dipak2005/chatbox)  
 - A cross-platform app built with Flutter, featuring real-time Chating  and end to end encrypted privacy and also  intuitive UI. 
 ![IMG-20240812-WA0016 (1)](https://github.com/user-attachments/assets/02eeff47-c970-4721-9576-db05355ceacc)

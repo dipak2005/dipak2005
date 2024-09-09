@@ -1,6 +1,6 @@
 
 ### Hi, I'm Dipak Thakur 👋
-### Flutter Developer | Aspiring Software Engineer
+###  Aspiring Software Engineer | Flutter Developer 
 -  Passionate about building high-performance mobile apps and solving complex problems and Focusing on Product Based Companies.
 
 ![Flutter For Ever](https://github.com/dipak2005/dipak2005/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png) 

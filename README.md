@@ -37,6 +37,9 @@
 ![C](https://skillicons.dev/icons?i=dart)
 ![C](https://skillicons.dev/icons?i=java)
 ![C](https://skillicons.dev/icons?i=php)
+![C](https://skillicons.dev/icons?i=html)
+![C](https://skillicons.dev/icons?i=css)
+![C](https://skillicons.dev/icons?i=javascript)
 
 #### FrameWorks , Plateforms , Libraries :
 

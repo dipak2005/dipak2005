@@ -1,6 +1,6 @@
 
 ### Hi, I'm Dipak Thakur 👋
-###  Aspiring Software Engineer | Flutter Developer 
+###  Open Source Contributor @ GSSoC | Aspiring Software Engineer | Flutter Developer 
 -  Passionate about building high-performance mobile apps and solving complex problems and Focusing on Product Based Companies.
 
 ![Flutter For Ever](https://github.com/dipak2005/dipak2005/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png) 
@@ -30,6 +30,10 @@
 - [LinkedIn](https://linkedin.com/in/dipak-thakur05)
   
 #### 🛠⚙️ Tech Stack :
+
+#### Experience :
+ <img height = "50px"  width = "50px" src="https://repository-images.githubusercontent.com/331823142/9764a900-5c8e-11eb-9f94-da2a01385e83" />
+
 #### Programming Languages :
 
 ![C](https://skillicons.dev/icons?i=c)

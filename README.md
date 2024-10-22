@@ -7,7 +7,7 @@
 -  Passionate about building high-performance mobile apps and Web apps and solving complex problems and Focusing on Product Based Companies.
   
 - 🔭 we are currently working on Flutter Mobile Apps 
-- 🌱 we are currently working on Flutter Web Apps
+- 🌱 we are currently working on Flutter and Mern Web Apps
 - 👯 we are looking to collaborate on d74252835@gmail.com
 - 💬 Ask me about App Development , Web App Development , UI & UX Designing
 - 📫 How to reach me: d74252835@gmail.com

@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400"  src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif">
 
 ###  Open Source Contributor @ GSSoC | Aspiring Software Engineer | Flutter Developer 
--  Passionate about building high-performance mobile apps and solving complex problems and Focusing on Product Based Companies.
+-  Passionate about building high-performance mobile apps and Web apps and solving complex problems and Focusing on Product Based Companies.
 
 
 

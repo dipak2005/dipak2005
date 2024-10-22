@@ -1,9 +1,12 @@
 
 ### Hi, I'm Dipak Thakur 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dipak2005&label=Profile%20views&color=0e75b6&style=flat" alt="dipak2005" /> </p>
+<img align="right" alt="coding" width="400"  src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif">
+
 ###  Open Source Contributor @ GSSoC | Aspiring Software Engineer | Flutter Developer 
 -  Passionate about building high-performance mobile apps and solving complex problems and Focusing on Product Based Companies.
 
-![Flutter For Ever](https://github.com/dipak2005/dipak2005/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png) 
+
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=ffffff&size=25&width=500&lines=AppDeveloper;WebAppDeveloper;UIUXDesigner)
 
@@ -27,7 +30,7 @@
 - 📫 How to reach me: d74252835@gmail.com
 - 🌐 My PortFolio :  [PortFolio](https://dipak2005.github.io/)
 - ## 🤝 Let's Connect
-- ![C](https://skillicons.dev/icons?i=linkedin) [Likedin](https://linkedin.com/in/dipak-thakur05)
+-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/radhika-malpani-30832b22a/)](https://www.linkedin.com/in/dipak-thakur05/)
   
 #### 🛠⚙️ Tech Stack :
 
@@ -71,7 +74,9 @@
 #### Others :
 ![PostMan](https://skillicons.dev/icons?i=postman)
 
-#### Github Analytics :
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+
 <p align="center">
   <a href="https://github.com/dipak2005">
   <img height ="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dipak2005&show_icons=true&theme=algolia&include_all_commits=true&count_public=true"/>

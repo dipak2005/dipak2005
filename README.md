@@ -5,7 +5,13 @@
 
 ###  Open Source Contributor @ GSSoC | Aspiring Software Engineer | Flutter Developer 
 -  Passionate about building high-performance mobile apps and Web apps and solving complex problems and Focusing on Product Based Companies.
-
+  
+- 🔭 we are currently working on Flutter Mobile Apps 
+- 🌱 we are currently working on Flutter Web Apps
+- 👯 we are looking to collaborate on d74252835@gmail.com
+- 💬 Ask me about App Development , Web App Development , UI & UX Designing
+- 📫 How to reach me: d74252835@gmail.com
+- 🌐 My PortFolio :  [PortFolio](https://dipak2005.github.io/)
 
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=ffffff&size=25&width=500&lines=AppDeveloper;WebAppDeveloper;UIUXDesigner)
@@ -23,12 +29,7 @@
 - [**DSA-BUS**](https://github.com/dipak2005/DSA-BUS)  
   A collection of DSA challenges solved with detailed explanations and optimized code.
 
-- 🔭 we are currently working on Flutter Mobile Apps 
-- 🌱 we are currently working on Flutter Web Apps
-- 👯 we are looking to collaborate on d74252835@gmail.com
-- 💬 Ask me about App Development , Web App Development , UI & UX Designing
-- 📫 How to reach me: d74252835@gmail.com
-- 🌐 My PortFolio :  [PortFolio](https://dipak2005.github.io/)
+
 - ## 🤝 Let's Connect
 -[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/radhika-malpani-30832b22a/)](https://www.linkedin.com/in/dipak-thakur05/)
   

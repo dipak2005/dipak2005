@@ -76,7 +76,7 @@
 ![PostMan](https://skillicons.dev/icons?i=postman)
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b> : 
 
 <p align="center">
   <a href="https://github.com/dipak2005">

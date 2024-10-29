@@ -13,10 +13,6 @@
 - 💬 Ask me about App Development , Web App Development , UI & UX Designing
 - 📫 How to reach me: d74252835@gmail.com
 - 🌐 My PortFolio :  [PortFolio](https://dipak2005.github.io/)
-
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=ffffff&size=25&width=500&lines=AppDeveloper;WebAppDeveloper;UIUXDesigner)
-
 - [**DSA-BUS**](https://github.com/dipak2005/DSA-BUS)  
   A collection of DSA challenges solved with detailed explanations and optimized code.
 

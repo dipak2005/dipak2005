@@ -79,6 +79,8 @@
   
  <img src="https://github.com/user-attachments/assets/f8a772ef-66f4-443b-ae50-f1c01c5e1744" height = "200px" width = "150px">
 
+### Hactoberfest 2024 Badges :
+[![Holopin badges](https://holopin.me/dipak2005)](https://holopin.io/@dipak2005)
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b> : 

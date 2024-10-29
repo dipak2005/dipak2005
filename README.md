@@ -61,9 +61,10 @@
 #### Others :
 ![PostMan](https://skillicons.dev/icons?i=postman)
 ### GSSoC 2024 Badges :
-  <img src="https://github.com/user-attachments/assets/0a1cebf1-f425-4674-ad57-225886ec4e0d" height = "200px" width = "150px" margin = "10px">
+  <img src="https://github.com/user-attachments/assets/56baee3f-fae6-4fe8-abe7-6c26129c7f67" height = "200px" width = "180px" style="padding=20px">
+  <img src="https://github.com/user-attachments/assets/0a1cebf1-f425-4674-ad57-225886ec4e0d" height = "200px" width = "150px" padding = "20px">
   
- <img src="https://github.com/user-attachments/assets/f8a772ef-66f4-443b-ae50-f1c01c5e1744" height = "200px" width = "150px">
+ <img src="https://github.com/user-attachments/assets/f8a772ef-66f4-443b-ae50-f1c01c5e1744" height = "200px" width = "150px" padding = "20px">
 
 ### Hactoberfest 2024 Badges :
 [![Holopin badges](https://holopin.me/dipak2005)](https://holopin.io/@dipak2005)

@@ -17,19 +17,8 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=ffffff&size=25&width=500&lines=AppDeveloper;WebAppDeveloper;UIUXDesigner)
 
-## 🚀 Featured Projects
-
-- [**AiBuddy**](https://github.com/dipak2005/aibuddy)  
-- A cross-platform app built with Flutter, featuring calling post api for ai response  also  intuitive UI.
-- ![IMG-20240903-WA0004 (1)](https://github.com/user-attachments/assets/91be8d49-6ed3-4a83-8522-f7beae6cb3f5)
-
-- [**ChatBox**](https://github.com/dipak2005/chatbox)  
-- A cross-platform app built with Flutter, featuring real-time Chating  and end to end encrypted privacy and also  intuitive UI. 
-![IMG-20240812-WA0016 (1)](https://github.com/user-attachments/assets/02eeff47-c970-4721-9576-db05355ceacc)
-
 - [**DSA-BUS**](https://github.com/dipak2005/DSA-BUS)  
   A collection of DSA challenges solved with detailed explanations and optimized code.
-
 
 - ## 🤝 Let's Connect
 -[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/radhika-malpani-30832b22a/)](https://www.linkedin.com/in/dipak-thakur05/)
@@ -48,9 +37,6 @@
 ![C](https://skillicons.dev/icons?i=html)
 ![C](https://skillicons.dev/icons?i=css)
 ![C](https://skillicons.dev/icons?i=javascript)
-
-
-
 
 #### FrameWorks , Plateforms , Libraries :
 
@@ -95,8 +81,6 @@
   </a>
 </p>
  
-
-
 <p align="center">
   <a href="https://github.com/dipak2005">
      <img  src="https://github-stats-alpha.vercel.app/api/?username=dipak2005&cc=FFF1FF&tc=333333&ic=488BDA"alt ="Stats"/>

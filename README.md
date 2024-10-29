@@ -13,11 +13,11 @@
 - 💬 Ask me about App Development , Web App Development , UI & UX Designing
 - 📫 How to reach me: d74252835@gmail.com
 - 🌐 My PortFolio :  [PortFolio](https://dipak2005.github.io/)
-- [**DSA-BUS**](https://github.com/dipak2005/DSA-BUS)  
+ [**DSA-BUS**](https://github.com/dipak2005/DSA-BUS)  
   A collection of DSA challenges solved with detailed explanations and optimized code.
 
 - ## 🤝 Let's Connect
--[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/radhika-malpani-30832b22a/)](https://www.linkedin.com/in/dipak-thakur05/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/radhika-malpani-30832b22a/)](https://www.linkedin.com/in/dipak-thakur05/)
   
 #### 🛠⚙️ Tech Stack :
 
@@ -57,7 +57,8 @@
 #### Others :
 ![PostMan](https://skillicons.dev/icons?i=postman)
 
-  ## GSSOC(24) Badges : 🪶
+### GSSOC(24) Badges : 🪶
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <div style='display:flex; align-items:center; gap: 10px;' >
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
@@ -68,12 +69,17 @@
   
 </div>
 
+
 ### Hactoberfest 2024 Badges :
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 [![Holopin badges](https://holopin.me/dipak2005)](https://holopin.io/@dipak2005)
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b> : 
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b> 
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <p align="center">
   <a href="https://github.com/dipak2005">
   <img height ="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dipak2005&show_icons=true&theme=algolia&include_all_commits=true&count_public=true"/>

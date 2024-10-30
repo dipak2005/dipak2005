@@ -13,7 +13,8 @@
 - 💬 Ask me about App Development , Web App Development , UI & UX Designing
 - 📫 How to reach me: d74252835@gmail.com
 - 🌐 My PortFolio :  [PortFolio](https://dipak2005.github.io/)
- [**DSA-BUS**](https://github.com/dipak2005/DSA-BUS)  
+  
+- [**DSA-BUS**](https://github.com/dipak2005/DSA-BUS)  
   A collection of DSA challenges solved with detailed explanations and optimized code.
 
 - ## 🤝 Let's Connect
@@ -57,7 +58,7 @@
 #### Others :
 ![PostMan](https://skillicons.dev/icons?i=postman)
 
-### GSSOC(24) Badges : 🪶
+### GSSOC(24) Badges 🪶 :
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <div style='display:flex; align-items:center; gap: 10px;' >
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
@@ -76,32 +77,40 @@
 
 [![Holopin badges](https://holopin.me/dipak2005)](https://holopin.io/@dipak2005)
 
+### 🔝 Top Contributed Repo : 
+<p >
+  <img src= "https://github-contributor-stats.vercel.app/api?username=dipak2005&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
+  </p>
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b> 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <p align="center">
   <a href="https://github.com/dipak2005">
-  <img height ="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dipak2005&show_icons=true&theme=algolia&include_all_commits=true&count_public=true"/>
+  <img height = "180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dipak2005&show_icons=true&theme=algolia&hide_border=false&include_all_commits=true&count_private=true" />
     <img height ="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dipak2005&layout=compact&langs_count=5&theme=algolia"/>
     <img  height ="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dipak2005&theme=algolia" />
-   
+     <img height = "180em" src="https://github-stats-alpha.vercel.app/api/?username=dipak2005&cc=FFF1FF&tc=333333&ic=488BDA"alt ="Stats"/>
 
   </a>
 </p>
  
-<p align="center">
+<p align="center" >
   <a href="https://github.com/dipak2005">
-     <img  src="https://github-stats-alpha.vercel.app/api/?username=dipak2005&cc=FFF1FF&tc=333333&ic=488BDA"alt ="Stats"/>
+   
   </a>
 </p>
 
 <p align="center">
-      <img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dipak2005&theme=algolia"alt="Profile Summary Card"/>
+  <img   src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dipak2005&theme=algolia"alt="Profile Summary Card"/>
 </p>
+
 
 
 <p align="center">
-      <img  src="https://github-profile-trophy.vercel.app/?username=dipak2005&theme=tokyonight"alt ="Github Trophies"/>
+     <img src= "https://github-profile-trophy.vercel.app/?username=dipak2005&theme=tockyonight&no-frame=false&no-bg=true&margin-w=4"/>
 </p>
+
+
+
 

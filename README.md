@@ -18,7 +18,7 @@
   A collection of DSA challenges solved with detailed explanations and optimized code.
 
 - ## 🤝 Let's Connect
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/radhika-malpani-30832b22a/)](https://www.linkedin.com/in/dipak-thakur05/)
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/dipak-thakur05/)
   
 #### 🛠⚙️ Tech Stack :
 

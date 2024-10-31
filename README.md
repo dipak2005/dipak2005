@@ -58,7 +58,7 @@
 #### Others :
 ![PostMan](https://skillicons.dev/icons?i=postman)
 
-### GSSOC(24) Badges 🪶 :
+### <img height = "25px"  width = "25px" src="https://repository-images.githubusercontent.com/331823142/9764a900-5c8e-11eb-9f94-da2a01385e83" /> GSSOC(24) Badges 🪶 :
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <div style='display:flex; align-items:center; gap: 10px;' >
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
@@ -71,13 +71,14 @@
 </div>
 
 
-### Hactoberfest 2024 Badges :
+###  <img height = "25px" width = "25px" src= "https://github.com/user-attachments/assets/754ee438-91bc-4134-9bca-2821cc129f15"/> Hactoberfest 2024 Badges :
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 [![Holopin badges](https://holopin.me/dipak2005)](https://holopin.io/@dipak2005)
 
 ### 🔝 Top Contributed Repo : 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <p >
   <img src= "https://github-contributor-stats.vercel.app/api?username=dipak2005&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
   </p>
@@ -95,11 +96,7 @@
   </a>
 </p>
  
-<p align="center" >
-  <a href="https://github.com/dipak2005">
-   
-  </a>
-</p>
+
 
 <p align="center">
   <img   src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dipak2005&theme=algolia"alt="Profile Summary Card"/>

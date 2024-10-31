@@ -19,7 +19,7 @@
 
 - ## 🤝 Let's Connect
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/dipak-thakur05/)
-<a href="https://x.com/dipak_d74252835"><img height = "50px"  width = "50px" src="https://github.com/user-attachments/assets/67e8ccfc-c76d-43f9-a2eb-1117a1997c7e" />
+
   
 #### 🛠⚙️ Tech Stack :
 

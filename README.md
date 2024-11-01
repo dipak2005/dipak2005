@@ -24,7 +24,7 @@
 #### 🛠⚙️ Tech Stack :
 
 #### Experience :
-<a href="https://gssoc.girlscript.tech/leaderboard?year=2024Extd&username=dipak2005" />
+<a href="https://gssoc.girlscript.tech/leaderboard?year=2024Extd&username=dipak2005" target="_main" />
  <img height = "50px"  width = "50px" src="https://repository-images.githubusercontent.com/331823142/9764a900-5c8e-11eb-9f94-da2a01385e83" />
 
 #### Programming Languages :
@@ -114,6 +114,15 @@
      <img src= "https://github-profile-trophy.vercel.app/?username=dipak2005&theme=tockyonight&no-frame=false&no-bg=true&margin-w=4"/>
 </p>
 
+<p align="center">
+  <b>Thank you for visiting my profile! If you appreciate my work, consider buying me a coffee or tea. 😊</b>
+</p>
+
+<p align="center">
+  <a href="https://buymeacoffee.com/dipak2005" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150"/>
+  </a>
+</p>
 
 
 

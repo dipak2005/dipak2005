@@ -117,15 +117,5 @@
      <img src= "https://github-profile-trophy.vercel.app/?username=dipak2005&theme=tockyonight&no-frame=false&no-bg=true&margin-w=4"/>
 </p>
 
-<p align="center">
-  <b>Thank you for visiting my profile! If you appreciate my work, consider buying me a coffee or tea. 😊</b>
-</p>
-
-<p align="center">
-  <a href="https://buymeacoffee.com/dipak050" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150"/>
-  </a>
-</p>
-
 
 

@@ -62,7 +62,7 @@
 #### Others :
 ![PostMan](https://skillicons.dev/icons?i=postman)
 
-
+### 🌟 Achievements :
 ### <img height = "25px"  width = "25px" src="https://repository-images.githubusercontent.com/331823142/9764a900-5c8e-11eb-9f94-da2a01385e83" /> GSSOC(24) Badges 🪶 :
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <div style='display:flex; align-items:center; gap: 10px;' >

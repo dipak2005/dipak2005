@@ -21,7 +21,7 @@
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/dipak-thakur05/)
 
   
-#### 🛠⚙️ Tech Stack :
+# <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> Tech Stack :
 
 #### Experience :
 
@@ -62,7 +62,7 @@
 #### Others :
 ![PostMan](https://skillicons.dev/icons?i=postman)
 
-### 🌟 Achievements :
+# 🌟 Achievements :
 ### <img height = "25px"  width = "25px" src="https://repository-images.githubusercontent.com/331823142/9764a900-5c8e-11eb-9f94-da2a01385e83" /> GSSOC(24) Badges 🪶 :
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <div style='display:flex; align-items:center; gap: 10px;' >
@@ -99,13 +99,26 @@
   <a href="https://github.com/dipak2005">
   <img height = "180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dipak2005&show_icons=true&theme=algolia&hide_border=false&include_all_commits=true&count_private=true" />
     <img height ="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dipak2005&layout=compact&langs_count=5&theme=algolia"/>
-    <img  height ="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dipak2005&theme=algolia" />
-     <img height = "180em" src="https://github-stats-alpha.vercel.app/api/?username=dipak2005&cc=FFF1FF&tc=333333&ic=488BDA"alt ="Stats"/>
-
+   
   </a>
 </p>
  
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Activity Graph ------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dipak2005&bg_color=141414&color=fffdb8&line=fafaff&point=ff5252&area=true&hide_border=true" alt="dipak2005" />
+
+
+
+
+<p align="center">
+   <a>
+   <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883377-48faf476-56b7-4550-8574-844f2ca8baca.png">
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dipak2005&theme=dark&hide_border=true"/>
+   <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883387-b4d3b9f8-d432-4b77-8aab-77c6ed120e31.png"> 
+   </a>
+</p>
 
 <p align="center">
   <img   src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dipak2005&theme=algolia"alt="Profile Summary Card"/>

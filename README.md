@@ -10,7 +10,7 @@
 - 🔭 I'm currently working on Flutter Mobile Apps 
 - 🌱 I'm currently working on Flutter and Mern Web Apps
 - 👯 I'm looking to collaborate on d74252835@gmail.com
-- 💬 Ask me about App Development , Web App Development , UI & UX Designing
+- 💬 Ask me about App Development , Web App Development 
 - 📫 How to reach me: d74252835@gmail.com
 - 🌐 My PortFolio :  [PortFolio](https://dipak2005.github.io/)
 

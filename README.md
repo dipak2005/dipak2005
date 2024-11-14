@@ -27,6 +27,10 @@
  <img height = "50px"  width = "50px" src="https://repository-images.githubusercontent.com/331823142/9764a900-5c8e-11eb-9f94-da2a01385e83" alt="GSSoC"/>
 </a>
 
+<a href="https://holopin.me/dipak2005" target="_black">
+<img height = "40px" width = "40px"  padding="20px" src= "https://github.com/user-attachments/assets/754ee438-91bc-4134-9bca-2821cc129f15" alt="Hacktoberfest"/>
+</a>
+
 #### Programming Languages :
 
 ![C](https://skillicons.dev/icons?i=c)
@@ -61,6 +65,8 @@
 ![PostMan](https://skillicons.dev/icons?i=postman)
 
 # 🌟 Achievements :
+
+
 ### <img height = "25px"  width = "25px" src="https://repository-images.githubusercontent.com/331823142/9764a900-5c8e-11eb-9f94-da2a01385e83" /> GSSOC(24) Badges 🪶 :
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <div style='display:flex; align-items:center; gap: 10px;' >

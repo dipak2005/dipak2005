@@ -15,7 +15,7 @@
 - 🌐 My PortFolio :  [PortFolio](https://dipak2005.github.io/)
 
 
-- ## 🤝 Let's Connect
+- ## <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjNWZcyRTUbqBcosHBg7VxyLhvHWa4G3ACUw&s.gif" width = "40" > Let's Connect
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/dipak-thakur05/)
 
   

@@ -4,13 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipak2005&label=Profile%20views&color=0e75b6&style=flat" alt="dipak2005" /> </p>
 <img align="right" alt="coding" width="400"  src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif">
 
-###  Open Source Contributor @ GSSoC | Aspiring Software Engineer | Mastering Flutter
--  Passionate about building high-performance mobile apps and Web apps and solving complex problems and Focusing on Product Based Companies.
+###  Top Contributor (#99) - GSSoC'24 | Aspiring Software Engineer | Mastering Flutter | Learning MERN STACK
+-  Passionate about building high-performance mobile and Web apps, solving complex problems, and Focusing on product-basecompanieses.
   
 - 🔭 I'm currently working on Flutter Mobile Apps 
 - 🌱 I'm currently working on Flutter and Mern Web Apps
 - 👯 I'm looking to collaborate on d74252835@gmail.com
-- 💬 Ask me about App Development , Web App Development 
+- 💬 Ask me about App Development, Web App Development 
 - 📫 How to reach me: d74252835@gmail.com
 - 🌐 My PortFolio :  [PortFolio](https://dipak2005.github.io/)
 
@@ -41,7 +41,7 @@
 ![C](https://skillicons.dev/icons?i=css)
 ![C](https://skillicons.dev/icons?i=javascript)
 
-#### FrameWorks , Plateforms , Libraries :
+#### FrameWorks, Platforms, Libraries :
 
 ![C](https://skillicons.dev/icons?i=flutter)
 ![C](https://skillicons.dev/icons?i=figma)

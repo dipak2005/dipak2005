@@ -21,6 +21,22 @@
   
 # <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> Tech Stack :
 
+![C](https://skillicons.dev/icons?i=c)
+![C](https://skillicons.dev/icons?i=cpp)
+![C](https://skillicons.dev/icons?i=dart)
+![C](https://skillicons.dev/icons?i=java)
+![C](https://skillicons.dev/icons?i=html)
+![C](https://skillicons.dev/icons?i=css)
+![C](https://skillicons.dev/icons?i=javascript)
+![C](https://skillicons.dev/icons?i=flutter)
+![Android Studio](https://skillicons.dev/icons?i=androidstudio)
+![Visual Studio code](https://skillicons.dev/icons?i=vscode)
+![Git](https://skillicons.dev/icons?i=git)
+![Github](https://skillicons.dev/icons?i=github)
+![MY SQL](https://skillicons.dev/icons?i=mysql)
+![FIREBASE](https://skillicons.dev/icons?i=firebase)
+![PostMan](https://skillicons.dev/icons?i=postman)
+
 #### Experience :
 
 <a href="https://gssoc.girlscript.tech/leaderboard?year=2024Extd&username=dipak2005" target="_blanck">
@@ -31,38 +47,8 @@
 <img height = "40px" width = "40px"  padding="20px" src= "https://github.com/user-attachments/assets/754ee438-91bc-4134-9bca-2821cc129f15" alt="Hacktoberfest"/>
 </a>
 
-#### Programming Languages :
 
-![C](https://skillicons.dev/icons?i=c)
-![C](https://skillicons.dev/icons?i=cpp)
-![C](https://skillicons.dev/icons?i=dart)
-![C](https://skillicons.dev/icons?i=java)
-![C](https://skillicons.dev/icons?i=html)
-![C](https://skillicons.dev/icons?i=css)
-![C](https://skillicons.dev/icons?i=javascript)
 
-#### FrameWorks, Platforms, Libraries :
-
-![C](https://skillicons.dev/icons?i=flutter)
-![C](https://skillicons.dev/icons?i=figma)
-
-#### Favorite IDE'S/Editors :
-
-![Android Studio](https://skillicons.dev/icons?i=androidstudio)
-![Visual Studio code](https://skillicons.dev/icons?i=vscode)
-
-#### Version Controller :
-
-![Git](https://skillicons.dev/icons?i=git)
-![Github](https://skillicons.dev/icons?i=github)
-
-#### DataBases :
-
-![MY SQL](https://skillicons.dev/icons?i=mysql)
-![FIREBASE](https://skillicons.dev/icons?i=firebase)
-
-#### Others :
-![PostMan](https://skillicons.dev/icons?i=postman)
 
 # 🌟 Achievements :
 

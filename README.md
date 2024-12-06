@@ -15,7 +15,7 @@
 - 🌐 My PortFolio :  [PortFolio](https://dipak2005.github.io/)
 
 
-- ## <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjNWZcyRTUbqBcosHBg7VxyLhvHWa4G3ACUw&s.gif" width = "40" > Let's Connect
+- # <img src="https://github.com/user-attachments/assets/8e4058a8-ffed-41b0-bbb2-caa6e0deee07" width = "60" > Let's Connect
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/dipak-thakur05/)
 
   

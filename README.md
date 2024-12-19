@@ -41,7 +41,7 @@
 #### Experience :
 
 <a href="https://gssoc.girlscript.tech/leaderboard?year=2024Extd&username=dipak2005" target="_blanck">
- <img height = "50px"  width = "50px" src="https://repository-images.githubusercontent.com/331823142/9764a900-5c8e-11eb-9f94-da2a01385e83" alt="GSSoC"/>
+ <img height = "40px"  width = "40px" src="https://repository-images.githubusercontent.com/331823142/9764a900-5c8e-11eb-9f94-da2a01385e83" alt="GSSoC"/>
 </a>
 
 <a href="https://holopin.me/dipak2005" target="_black">

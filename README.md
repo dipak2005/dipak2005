@@ -47,7 +47,9 @@
 <a href="https://holopin.me/dipak2005" target="_black">
 <img height = "40px" width = "40px"  padding="20px" src= "https://github.com/user-attachments/assets/754ee438-91bc-4134-9bca-2821cc129f15" alt="Hacktoberfest"/>
 </a>
-
+<a href="https://drive.google.com/file/d/1WOlC_fGEMw12iKW4y4XeyupSuzicEXpP/view?usp=drive_link" target="_black">
+<img height = "40px" width = "40px"  padding="20px" src= "https://github.com/user-attachments/assets/6b39321c-5d1c-40c0-b743-7bac89511a19" alt="Edunet Foundation"/>
+</a>
 
 
 

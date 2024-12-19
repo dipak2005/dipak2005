@@ -4,8 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipak2005&label=Profile%20views&color=0e75b6&style=flat" alt="dipak2005" /> </p>
 <img align="right" alt="coding" width="400"  src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif">
 
-###  Top Contributor (#99) - GSSoC'24 | Aspiring Software Engineer | Mastering Flutter | Learning MERN STACK
--  Passionate about building high-performance mobile and Web apps, solving complex problems, and Focusing on product-basecompanieses.
+###  AI Intern @Edunet Foundation| Top Contributor (#99) - GSSoC'24 | Aspiring Software Engineer | Mastering Flutter | Learning MERN STACK
+-  Passionate about building high-performance mobile and Web apps, solving complex problems, and Focusing on product-based Companieses.
   
 - 🔭 I'm currently working on Flutter Mobile Apps 
 - 🌱 I'm currently working on Flutter and Mern Web Apps
@@ -25,6 +25,7 @@
 ![C](https://skillicons.dev/icons?i=cpp)
 ![C](https://skillicons.dev/icons?i=dart)
 ![C](https://skillicons.dev/icons?i=java)
+![C](https://skillicons.dev/icons?i=python)
 ![C](https://skillicons.dev/icons?i=html)
 ![C](https://skillicons.dev/icons?i=css)
 ![C](https://skillicons.dev/icons?i=javascript)

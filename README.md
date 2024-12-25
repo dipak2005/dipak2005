@@ -55,6 +55,9 @@
 
 # 🌟 Achievements :
 
+### <img src="https://github.com/user-attachments/assets/aca2373c-40d5-4874-88d3-c34d36f727c1" width ="35" height = "30" /> LeetCode Badges : 
+<img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width = "100" />
+
 
 ### <img height = "25px"  width = "25px" src="https://repository-images.githubusercontent.com/331823142/9764a900-5c8e-11eb-9f94-da2a01385e83" /> GSSOC(24) Badges 🪶 :
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
@@ -82,8 +85,7 @@
 [![Holopin badges](https://holopin.me/dipak2005)](https://holopin.io/@dipak2005)
 
 
-### <img src="https://github.com/user-attachments/assets/aca2373c-40d5-4874-88d3-c34d36f727c1" width ="35" height = "30" /> LeetCode Badges : 
-<img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width = "100" />
+
 
 ### 🔝 Top Contributed Repo : 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />

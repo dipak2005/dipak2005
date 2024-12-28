@@ -55,7 +55,7 @@
 
 # 🌟 Achievements :
 
-### <img src="https://github.com/user-attachments/assets/aca2373c-40d5-4874-88d3-c34d36f727c1" width ="35" height = "30" /> LeetCode Badges : 
+### <img src="https://github.com/user-attachments/assets/596d5b86-4b13-4bf7-b789-db53730d8ab9" width ="35" height = "30" /> LeetCode Badges : 
 <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width = "100" />
 
 

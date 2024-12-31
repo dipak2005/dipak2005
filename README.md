@@ -56,6 +56,7 @@
 # 🌟 Achievements :
 
 ### <img src="https://github.com/user-attachments/assets/596d5b86-4b13-4bf7-b789-db53730d8ab9" width ="35" height = "30" /> LeetCode Badges : 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width = "100" />
 
 

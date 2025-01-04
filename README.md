@@ -11,7 +11,7 @@
 - 🌱 I'm currently working on Flutter and Mern Web Apps
 - 👯 I'm looking to collaborate on dipakd63676@gmail.com
 - 💬 Ask me about App Development, Web App Development 
-- 📫 How to reach me: d74252835@gmail.com
+- 📫 How to reach me: dipakd63676@gmail.com
 - 🌐 My PortFolio :  [PortFolio](https://dipak2005.github.io/)
 
 

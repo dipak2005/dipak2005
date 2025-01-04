@@ -5,11 +5,11 @@
 <img align="right" alt="coding" width="400"  src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif">
 
 ###  AI Intern @Edunet Foundation | Top Contributor (#99) - GSSoC'24 | Aspiring Software Engineer | Mastering Flutter | Learning MERN STACK
--  Passionate about building high-performance mobile and Web apps, solving complex problems, and Focusing on product-based Companieses.
+-  Passionate about building high-performance mobile and Web apps, solving complex problems, and Focusing on product-based companies.
   
 - 🔭 I'm currently working on Flutter Mobile Apps 
 - 🌱 I'm currently working on Flutter and Mern Web Apps
-- 👯 I'm looking to collaborate on d74252835@gmail.com
+- 👯 I'm looking to collaborate on dipakd63676@gmail.com
 - 💬 Ask me about App Development, Web App Development 
 - 📫 How to reach me: d74252835@gmail.com
 - 🌐 My PortFolio :  [PortFolio](https://dipak2005.github.io/)

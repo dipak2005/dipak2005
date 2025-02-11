@@ -4,9 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipak2005&label=Profile%20views&color=0e75b6&style=flat" alt="dipak2005" /> </p>
 <img align="right" alt="coding" width="400"  src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif">
 
-###  EX-AI Intern @Edunet Foundation | Top Contributor (#99) - GSSoC'24 | Aspiring Software Engineer | Mastering Flutter | Learning MERN STACK
--  Passionate about building high-performance mobile and Web apps, solving complex problems, and Focusing on product-based companies.
-  
+###  EX-AI Intern @Edunet Foundation | Top Contributor (#99) - GSSoC'24 | Aspiring Software Engineer | Mastering Flutter | Learning MERN STACK  
 - 🔭 I'm currently working on Flutter Mobile Apps 
 - 🌱 I'm currently working on Flutter and Mern Web Apps
 - 👯 I'm looking to collaborate on dipakd63676@gmail.com
@@ -123,6 +121,7 @@
    <a>
    <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883377-48faf476-56b7-4550-8574-844f2ca8baca.png">
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dipak2005&theme=dark&hide_border=true"/>
+<!--      <img width=390 src="https://streak-stats.demolab.com/?user=dipak2005&count_private=true&theme=dark&hide_border=true" alt="streak stats"/> -->
    <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883387-b4d3b9f8-d432-4b77-8aab-77c6ed120e31.png"> 
    </a>
 </p>

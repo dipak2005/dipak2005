@@ -59,6 +59,11 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width = "100" />
 
+<p align="left">
+  
+  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/dipak17?theme=dark&font=Nunito&ext=heatmap" />  
+</p>
+
 
 ### <img height = "25px"  width = "25px" src="https://repository-images.githubusercontent.com/331823142/9764a900-5c8e-11eb-9f94-da2a01385e83" /> GSSOC(24) Badges 🪶 :
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />

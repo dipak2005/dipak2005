@@ -13,11 +13,12 @@
 - 🌐 My PortFolio :  [PortFolio](https://dipak2005.github.io/)
 
 
-- # <img src="https://github.com/user-attachments/assets/8e4058a8-ffed-41b0-bbb2-caa6e0deee07" width = "60" > Let's Connect
+- # <img src="https://github.com/user-attachments/assets/8e4058a8-ffed-41b0-bbb2-caa6e0deee07" width = "60px" > Let's Connect
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/dipak-thakur05/)
-<a href = "https://leetcode.com/u/dipak17/" target = "_black">
+<a href = "https://leetcode.com/u/dipak17/" target = "_blank">
 <img src = "https://github.com/user-attachments/assets/7e9ab318-b8b2-43c4-9c8b-9e69be7848fd" width = "50" >
 </a>
+
 
 
   

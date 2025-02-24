@@ -15,9 +15,7 @@
 
 - # <img src="https://github.com/user-attachments/assets/8e4058a8-ffed-41b0-bbb2-caa6e0deee07" width = "60px" > Let's Connect
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/dipak-thakur05/)
-<a href = "https://leetcode.com/u/dipak17/" target = "_blank">
-<img src = "https://github.com/user-attachments/assets/7e9ab318-b8b2-43c4-9c8b-9e69be7848fd" width = "50" >
-</a>
+
 
 
 
@@ -58,36 +56,57 @@
 
 # 🌟 Achievements :
 
-### <a  href = "https://leetcode.com/u/dipak17/" target = "_blanck">  <img src="https://github.com/user-attachments/assets/596d5b86-4b13-4bf7-b789-db53730d8ab9" width ="35" height = "30" href = "https://leetcode.com/u/dipak17/" /> </a> LeetCode Badges : 
+<!-- ### <a  href = "https://leetcode.com/u/dipak17/" target = "_blanck">  <img src="https://github.com/user-attachments/assets/596d5b86-4b13-4bf7-b789-db53730d8ab9" width ="35" height = "30" href = "https://leetcode.com/u/dipak17/" /> </a> LeetCode Badges : 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width = "100" />
 
 <p align="left">
   
   <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/dipak17?theme=dark&font=Nunito&ext=heatmap" />  
-</p>
+</p> -->
 
 
 ### <img height = "25px"  width = "25px" src="https://repository-images.githubusercontent.com/331823142/9764a900-5c8e-11eb-9f94-da2a01385e83" /> GSSOC(24) Badges 🪶 :
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <div style='display:flex; align-items:center; gap: 10px;' >
-  <table border = "black" >
+<!--   <table border = "black" >
     <th colSpan = "9"><center>  GirlScript Summer of Code </center></th> 
-    <tr>
-      <td ><img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />  </td>
-      <td> <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /> </td>
-      <td><img src="https://raw.githubusercontent.com/GSSoC24/Hack-Web3Conf/refs/heads/main/assets/Hack-Web3Conf%202024%20Badge%20(2).png" width="100px" height="100px" /> </td>
-      <td> <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" /></td>
-      <td> <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" /> </td>
-    </tr>
-    <tr>
-       <td>  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" /></td>
-      <td> <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" /> </td>
-      <td>  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" /></td>
-      <td> <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" /> </td>
-      <td> <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" /></td>
-    </tr>
-  </table>
+    <tr> -->
+<!--       <td > -->
+        <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" /> 
+<!-- </td> -->
+<!--       <td>  -->
+        <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /> 
+<!-- </td> -->
+<!--       <td> -->
+        <img src="https://raw.githubusercontent.com/GSSoC24/Hack-Web3Conf/refs/heads/main/assets/Hack-Web3Conf%202024%20Badge%20(2).png" width="100px" height="100px" /> 
+<!-- </td> -->
+<!--       <td> -->
+        <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+<!-- </td> -->
+<!--       <td> -->
+        <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
+<!-- </td> -->
+<!--     </tr> -->
+<!--     <tr> -->
+<!--        <td>  -->
+         <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
+<!-- </td> -->
+<!--       <td> -->
+        <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
+<!-- </td> -->
+<!--       <td> -->
+        <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
+<!-- </td> -->
+<!--       <td> -->
+        <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
+
+  </td>
+<!--       <td> -->
+        <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
+<!--         </td> -->
+<!--     </tr> -->
+<!--   </table> -->
   
  
 
@@ -113,11 +132,11 @@
 
 
 
-### 🔝 Top Contributed Repo : 
+<!--### 🔝 Top Contributed Repo : 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <p > 
   <img src= "https://github-contributor-stats.vercel.app/api?username=dipak2005&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
-  </p>
+  </p> -->
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b> 
 
@@ -148,14 +167,14 @@
    </a>
 </p>
 
-<p align="center">
+<!-- < p align="center">
   <img   src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dipak2005&theme=algolia"alt="Profile Summary Card"/>
-</p>
+</p> -->
 
 
 
 <p align="center">
-     <img src= "https://github-profile-trophy.vercel.app/?username=dipak2005&theme=tockyonight&no-frame=false&no-bg=true&margin-w=4"/>
+     <img src= "https://github-profile-trophy.vercel.app/?username=dipak2005&theme=tockyonight&no-frame=false&no-bg=true&margin-w=4&font_color=white"/>
 </p>
 
 <p align = "center">

@@ -5,12 +5,12 @@
 <img align="right" alt="coding" width="400"  src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif">
 
 ###  EX-AI Intern @Edunet Foundation | Top Contributor (#99) - GSSoC'24 | Aspiring Software Engineer | Mastering Flutter | Learning MERN STACK  
-- 🔭 I'm currently working on Flutter Mobile Apps 
-- 🌱 I'm currently working on Flutter and Mern Web Apps
+
+- 🔭 I'm currently working on Flutter Apps and Mern Web Apps
 - 👯 I'm looking to collaborate on dipakd63676@gmail.com
 - 💬 Ask me about App Development, Web App Development 
 - 📫 How to reach me: dipakd63676@gmail.com
-- 🌐 My PortFolio :  [PortFolio](https://dipak2005.github.io/)
+- 🌐 My PortFolio :  [Portfolio](https://dipak2005.github.io/)
 
 
 - # <img src="https://github.com/user-attachments/assets/8e4058a8-ffed-41b0-bbb2-caa6e0deee07" width = "60px" > Let's Connect
@@ -74,17 +74,18 @@
   <table border = "black" >
     <th colSpan = "9"><center>  GirlScript Summer of Code </center></th> 
     <tr>
-      <td><img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" /> </td>
+      <td ><img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />  </td>
       <td> <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /> </td>
       <td><img src="https://raw.githubusercontent.com/GSSoC24/Hack-Web3Conf/refs/heads/main/assets/Hack-Web3Conf%202024%20Badge%20(2).png" width="100px" height="100px" /> </td>
       <td> <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" /></td>
       <td> <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" /> </td>
-      <td>  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" /></td>
+    </tr>
+    <tr>
+       <td>  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" /></td>
       <td> <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" /> </td>
       <td>  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" /></td>
       <td> <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" /> </td>
       <td> <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" /></td>
-      
     </tr>
   </table>
   

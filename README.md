@@ -10,7 +10,8 @@
 - 👯 I'm looking to collaborate on dipakd63676@gmail.com
 - 💬 Ask me about App Development, Web App Development 
 - 📫 How to reach me: dipakd63676@gmail.com
-- 🌐 My PortFolio :  [Portfolio](https://dipak2005.github.io/)
+  
+<!-- - 🌐 My PortFolio :  [Portfolio](https://dipak2005.github.io/) -->
 
 
 - # <img src="https://github.com/user-attachments/assets/8e4058a8-ffed-41b0-bbb2-caa6e0deee07" width = "60px" > Let's Connect

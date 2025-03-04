@@ -15,7 +15,7 @@
 
 - # <img src="https://github.com/user-attachments/assets/8e4058a8-ffed-41b0-bbb2-caa6e0deee07" width = "60px" > Let's Connect
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/dipak-thakur05/)
-[![PostMan](https://skillicons.dev/icons?i=gitlab)](https://gitlab.com/dipak2005/)
+
 <!--<a href="" target="_blanck">
  <img height = "40px"  width = "40px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/144_Gitlab_logo_logos-512.png" alt="GSSoC"/>
 </a> -->
@@ -41,6 +41,7 @@
 ![MY SQL](https://skillicons.dev/icons?i=mysql)
 ![FIREBASE](https://skillicons.dev/icons?i=firebase)
 ![PostMan](https://skillicons.dev/icons?i=postman)
+[![PostMan](https://skillicons.dev/icons?i=gitlab)](https://gitlab.com/dipak2005/)
 
 
 #### Experience :

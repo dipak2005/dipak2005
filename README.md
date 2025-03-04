@@ -6,9 +6,13 @@
 
 ###  Website Manager @GECR | EX-AI Intern @Edunet Foundation | Top Contributor (#99) - GSSoC'24 | Mastering Flutter | Learning MERN STACK  
 
+- Passionate building high-performance Apps & Web-Apps  
 - 🔭 I'm currently working on Flutter Apps and Mern Web Apps
+  
 - 👯 I'm looking to collaborate on dipakd63676@gmail.com
-- 💬 Ask me about App Development, Web App Development 
+  
+- 💬 Ask me about App Development, Web App Development
+   
 - 📫 How to reach me: dipakd63676@gmail.com
   
 <!-- - 🌐 My PortFolio :  [Portfolio](https://dipak2005.github.io/) -->

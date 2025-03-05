@@ -46,7 +46,7 @@
 ![MY SQL](https://skillicons.dev/icons?i=mysql)
 ![FIREBASE](https://skillicons.dev/icons?i=firebase)
 ![PostMan](https://skillicons.dev/icons?i=postman)
-[![PostMan](https://skillicons.dev/icons?i=gitlab)](https://gitlab.com/dipak2005/)
+<!--[![PostMan](https://skillicons.dev/icons?i=gitlab)](https://gitlab.com/dipak2005/) -->
 
 
 #### Experience :

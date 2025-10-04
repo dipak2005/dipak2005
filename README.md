@@ -81,6 +81,7 @@
 <span> <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width = "100" /> 
 <img src="https://assets.leetcode.com/static_assets/others/2550.gif" width ="100"/>
 <img src="https://assets.leetcode.com/static_assets/marketing/202502.gif" width = "100"/>
+<img src="https://assets.leetcode.com/static_assets/others/25100.gif" width = "100"/>
 </span>
 
 

@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipak2005&label=Profile%20views&color=0e75b6&style=flat" alt="dipak2005" /> </p>
 <img align="right" alt="coding" width="400"  src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif">
 
-###  Top Contributor (#99) - GSSoC_EXT'24 | MERN STACK Developer 
+###  Software Intern @King Technology | X-Mentor @GSSOC’25 | Top 99 Contributor @GSSoC_EXT 2024 | Full-Stack Developer <​ MERN /​> | DSA | Java 
 
 - Passionate about building high-performance Web-Apps
 
@@ -67,6 +67,8 @@
 <a href="https://drive.google.com/file/d/1WOlC_fGEMw12iKW4y4XeyupSuzicEXpP/view?usp=drive_link" target="_black">
 <img height = "40px" width = "40px"  padding="20px" src= "https://github.com/user-attachments/assets/6b39321c-5d1c-40c0-b743-7bac89511a19" alt="Edunet Foundation"/>
 </a>
+
+<img height = "40px" width = "40px"  padding="20px" src= "https://github.com/user-attachments/assets/338a873f-88e7-4cf7-9cb3-f9b74adccbe1" alt="King Technology"/>
 
 <!--<img height = "40px" width = "40px" padding="20px" src="https://github.com/user-attachments/assets/e21a2c5e-979a-45b7-b08e-15506fabe65b" alt="GECR" /> -->
 

@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipak2005&label=Profile%20views&color=0e75b6&style=flat" alt="dipak2005" /> </p>
 <img align="right" alt="coding" width="400"  src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif">
 
-###  Software Intern @King Technology | X-Mentor @GSSOC’25 | Top 99 Contributor @GSSoC_EXT 2024 | Full-Stack Developer <​ MERN /​> | DSA | Java 
+### x Software Intern @King Technology | X-Mentor @GSSOC’25 | Top 99 Contributor @GSSoC_EXT 2024 | Full-Stack Developer <​ MERN /​> | DSA | Java 
 
 - Passionate about building high-performance Web-Apps
 

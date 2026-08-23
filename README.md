@@ -2,7 +2,8 @@
 ### Hi, I'm Dipak Thakur <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipak2005&label=Profile%20views&color=0e75b6&style=flat" alt="dipak2005" /> </p>
-<img align="right" alt="coding" width="400"  src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif">
+<img align="right" alt="coding" width="400"  src="https://github.com/user-attachments/assets/6388f1ba-8555-47b7-bcd7-20d93b351026">
+<!-- src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif" -->
 
 ### x Software Intern @King Technology | X-Mentor @GSSOC’25 | Top 99 Contributor @GSSoC_EXT 2024 | Full-Stack Developer <​ MERN /​> | DSA | Java 
 
